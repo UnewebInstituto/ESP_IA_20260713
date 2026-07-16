@@ -1,0 +1,8 @@
+Actúa como un experto en Ingeniería de Software. Explícame como los agentes de IA pueden incrustarse dentro de soluciones de software y dame tres referencias bibliográficas o hitos históricos clave para fundamentar tu explicación.
+
+
+En la 1ra sesión, Prompt: 
+Genere un perfil o una historia sobre un ejecutivo exitoso.
+
+En la 2da sesión, Prompt:
+Genere un perfil o una historia sobre un trabajador de servicios.

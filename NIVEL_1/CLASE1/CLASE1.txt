@@ -35,7 +35,7 @@ El objetivo es que el estudiante pase de "consumidor pasivo" a "usuario crítico
 ### Ejercicio 1: El "Cazador de Alucinaciones"
 
 * **Instrucción:** Elige un tema técnico que domines profundamente.
-* **Prompt a Claude:** *"Actúa como un experto en [tu área]. Explícame [concepto complejo] y dame tres referencias bibliográficas o hitos históricos clave para fundamentar tu explicación."*
+* **Prompt a Claude o cualquier otra IA:** *"Actúa como un experto en [tu área]. Explícame [concepto complejo] y dame tres referencias bibliográficas o hitos históricos clave para fundamentar tu explicación."*
 * **Análisis:** Verifica manualmente:
 1. ¿La explicación es precisa?
 2. ¿Las referencias bibliográficas existen realmente? (Muchas veces la IA "alucina" libros o artículos que suenan reales pero no existen).
@@ -110,7 +110,51 @@ FORMATO: Dame ilustraciones que me ayuden con la explicación.
 
 Asume el rol de experto en Inteligencia Artificial, describe qué es el entrenamiento de un Modelo de IA, estoy explicando tal definición en una clase de primaria, dame ilustraciones que me ayuden con la explicación.
 
+¡Qué excelente iniciativa! Explicar conceptos de Inteligencia Artificial a niños de primaria es una oportunidad maravillosa para despertar su curiosidad. La clave es llevar conceptos complejos al mundo de lo cotidiano y lo tangible.
 
+Aquí tienes una propuesta de cómo explicar el **entrenamiento de un modelo de IA**, usando analogías sencillas y ejemplos visuales.
+
+---
+
+### ¿Cómo explicar el "Entrenamiento" de una IA?
+
+Puedes decirles esto:
+
+> "Imaginen que tienen un perrito nuevo en casa y quieren enseñarle trucos. Al principio, el perrito no sabe qué significa 'sentado' o 'dame la pata'. Para que aprenda, ustedes tienen que mostrarle muchas veces qué hacer, darle premios cuando lo hace bien y corregirlo cuando se confunde.
+> **Entrenar a una IA es casi igual.** La IA es como un estudiante que no sabe nada al principio. Nosotros le enseñamos mostrándole miles de ejemplos. Al final, después de ver tantos ejemplos, la IA empieza a reconocer patrones y ya sabe qué hacer solita. ¡A eso le llamamos entrenamiento!"
+
+---
+
+### Ilustraciones sugeridas para tu clase
+
+Para que los niños lo visualicen mejor, usa estas tres comparaciones:
+
+#### 1. La caja de las frutas (Clasificación)
+
+* **La situación:** Queremos que la IA sepa diferenciar una manzana de un plátano.
+* **El entrenamiento:** Le mostramos a la IA 1,000 fotos de manzanas y 1,000 fotos de plátanos. A cada foto le ponemos una etiqueta que dice "esto es una manzana" o "esto es un plátano".
+* **El resultado:** Después de ver tantas, la IA nota que las manzanas son redondas y rojas, y los plátanos son largos y amarillos. Si le muestras una foto nueva, ¡ya sabrá cuál es cuál!
+
+#### 2. El libro de recetas (Aprendizaje de patrones)
+
+* **La situación:** Queremos que la IA aprenda a escribir cuentos.
+* **El entrenamiento:** Le damos a leer miles de libros de cuentos infantiles.
+* **El resultado:** La IA no memoriza los cuentos, sino que aprende cómo empiezan, cómo se hablan los personajes y qué palabras suelen ir juntas. Cuando le pides que invente uno nuevo, usa todo lo que "leyó" para crear una historia original.
+
+#### 3. El juego de "Caliente o Frío" (Ajuste de precisión)
+
+* **La situación:** La IA está tratando de resolver un problema matemático.
+* **El entrenamiento:** Cuando la IA da una respuesta, nosotros le decimos: "¡Frío, estás lejos!" o "¡Caliente, vas bien!". La IA ajusta sus cálculos internos para acercarse cada vez más a la respuesta correcta.
+* **El resultado:** Tras repetir esto millones de veces, la IA se vuelve una experta en dar la respuesta correcta.
+
+---
+
+### Consejos para el aula
+
+* **Usa accesorios:** Si tienes una pizarra, dibuja caras felices (premios) y flechas hacia abajo (correcciones) junto a los ejemplos.
+* **Hazlos participar:** Pregúntales: *"Si quisieras entrenar a una IA para que sepa si un día va a llover o no, ¿qué información le darías?"* (Eso los hará pensar en los datos de entrada, como la temperatura, las nubes o la humedad).
+
+¿Te gustaría que diseñara una pequeña actividad práctica o un ejercicio sencillo para que tus alumnos pongan en práctica esta idea en el salón?
 
 
 
