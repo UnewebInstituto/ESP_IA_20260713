@@ -1,0 +1,15 @@
+### Ejercicio 2: El Desafío de Razonamiento (CoT + Extended Thinking)
+
+* **Objetivo:** Resolver un problema de gestión.
+* **Instrucción:** *"Actúa como un experto en gestión de proyectos. Necesito optimizar el tiempo de entrega de mi equipo que se siente desbordado. Primero, analiza los siguientes datos [Pega tus tareas]. Piensa paso a paso: enumera los cuellos de botella, propone tres soluciones prioritarias y justifica cada una. Presenta el resultado en una tabla."*
+
+### Ejercicio 3: Sinergia Profesional (Claude + Gemini)
+
+* **Flujo:**
+1. **Gemini:** *"Busca las últimas tendencias en [Tu sector, ej: IA en la educación] de esta semana. Resume los 3 cambios regulatorios o tecnológicos más relevantes."*
+2. **Claude:** *"Actúa como mi estratega de negocios. Aquí tienes el resumen de tendencias [Pega el output de Gemini]. Basado en esto, redacta un borrador de correo para mis clientes explicando cómo podemos integrar estas mejoras en nuestros servicios actuales."*
+
+---
+
+**Nota Pedagógica:** El éxito aquí no es aprenderse el comando de memoria, sino entender que **más contexto siempre equivale a mejor calidad**.
+

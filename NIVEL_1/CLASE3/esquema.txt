@@ -1,0 +1,72 @@
+# Estructura de presentación: Automatización de DMs de Instagram con IA
+
+## Diapositiva 1 — Portada / Propuesta de valor
+**Título:** "Convierte cada DM en una oportunidad de venta"
+
+**Bullets:**
+- Solución de IA conversacional entrenada específicamente en el negocio del cliente
+- Respuestas automáticas 24/7 en Instagram Direct
+- Presentación de marca: nombre de la solución + tagline corto
+
+**Imagen sugerida:** Mockup de un smartphone mostrando una conversación de Instagram DM con burbujas de chat modernas, sobre un fondo con gradiente sutil (tonos morado-rosa, coherentes con la identidad de Instagram) o un fondo neutro minimalista. Estilo flat/isométrico, alta resolución, nada de stock genérico de "robot con brazos".
+
+---
+
+## Diapositiva 2 — El problema
+**Título:** "Los DMs sin responder cuestan ventas"
+
+**Bullets:**
+- Tiempo de respuesta promedio actual vs. expectativa del cliente (dato o estimación)
+- Mensajes perdidos fuera de horario laboral
+- Equipo humano saturado con preguntas repetitivas (horarios, precios, disponibilidad)
+- Impacto directo en conversión y experiencia del cliente
+
+**Imagen sugerida:** Ilustración o infografía simple tipo ícono: bandeja de entrada saturada, notificaciones acumulándose, reloj marcando tiempo de espera. Estilo lineal/outline, minimalista, con un color de acento (ej. rojo/naranja suave) para transmitir urgencia sin verse alarmista.
+
+---
+
+## Diapositiva 3 — La solución
+**Título:** "IA entrenada en tu negocio, no un chatbot genérico"
+
+**Bullets:**
+- Entrenamiento personalizado con catálogo, tono de marca, políticas y FAQs del negocio
+- Comprensión de contexto: identifica intención (venta, soporte, consulta) y responde acorde
+- Escalamiento inteligente a un humano cuando el caso lo requiere
+- Integración nativa con Instagram (sin fricción para el cliente final)
+
+**Imagen sugerida:** Diagrama de flujo simple (3-4 pasos) mostrando: DM entra → IA procesa/entiende → responde o deriva a humano. Diseño de diagrama limpio, con íconos minimalistas y líneas conectoras, en la paleta de colores de la marca.
+
+---
+
+## Diapositiva 4 — Beneficios / resultados esperados
+**Título:** "Resultados que se traducen en negocio"
+
+**Bullets:**
+- Reducción del tiempo de primera respuesta (de horas a segundos)
+- Disponibilidad 24/7 sin ampliar el equipo
+- Mayor tasa de conversión por atención inmediata
+- Datos y métricas de conversación para mejorar decisiones comerciales
+
+**Imagen sugerida:** Panel de dashboard/analytics estilizado mostrando gráficas de barras o líneas ascendentes (tiempo de respuesta bajando, conversiones subiendo). Estilo UI moderno tipo "glassmorphism" o tarjetas con sombras suaves, transmite datos y profesionalismo.
+
+---
+
+## Diapositiva 5 — Cierre / llamado a la acción
+**Título:** "Empecemos a automatizar tu Instagram hoy"
+
+**Bullets:**
+- Resumen de próximos pasos (demo, prueba piloto, onboarding)
+- Tiempo estimado de implementación
+- Datos de contacto / agenda de reunión
+
+**Imagen sugerida:** Fondo limpio con la identidad de marca del negocio contratante, un ícono de flecha o "siguiente paso", y espacio para botón/CTA tipo "Agenda tu demo". Diseño minimalista para no competir con el texto de contacto.
+
+---
+
+**Recomendaciones generales de diseño:**
+- Mantén una paleta de 2-3 colores consistente en las 5 diapositivas (puedes usar los colores de marca de Instagram —morado/rosa/naranja— combinados con un neutro como blanco o gris oscuro)
+- Usa una tipografía sans-serif moderna (ej. Poppins, Inter, Montserrat) para transmitir modernidad
+- Evita fotos de stock con personas sonriendo forzadamente frente a laptops; prioriza ilustraciones flat, mockups de UI reales o iconografía minimalista
+- Deja espacio en blanco generoso — la sobrecarga visual resta profesionalismo
+
+¿Quieres que te arme esto como archivo .pptx editable, o prefieres primero ajustar contenido/tono antes de pasarlo a diapositivas reales?

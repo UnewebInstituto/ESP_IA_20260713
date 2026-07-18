@@ -1,0 +1,189 @@
+# Módulo 3: Creación Multimedia Integrada
+
+## 1. Teoría: El Flujo de Producción "Human-in-the-loop"
+
+El secreto de la calidad profesional no es la IA individual, sino la **cadena de producción**.
+
+* **Rol de Claude (Arquitecto):** Claude no crea la imagen ni el vídeo, diseña el *prompt* (la instrucción técnica) que las otras herramientas necesitan para ser precisas.
+
+* **Freepik AI (Diseñador):** Especializado en generación de imágenes con estilos consistentes. La clave es el "Prompt Engineering Visual" (describir iluminación, ángulo de cámara, estilo artístico y paleta de colores).
+
+* **Gamma.app (Storyteller):** Automatiza la arquitectura de presentaciones. Claude le provee el esqueleto narrativo (la estructura de diapositivas).
+
+* **Fliki.ai (Productor):** Sintetiza voz, música, imágenes y clips de vídeo para crear contenido narrativo. Su eficiencia radica en el guion estructurado.
+
+---
+
+## 2. Práctica: Laboratorio Multimedia
+
+### Ejercicio 1: De la Idea al Slide con Claude y Gamma.app
+
+1. **Instrucción a Claude:** *"Actúa como un diseñador de presentaciones profesional. Necesito una estructura de 5 diapositivas sobre [Tu tema profesional]. Define el título de cada una, los puntos clave (bullets) y el tipo de imagen que debería aparecer en cada slide para transmitir profesionalismo y modernidad."*
+
+2. **Gamma.app:** Utiliza la función de "Text to Deck" e importa el esquema estructurado que Claude te generó.
+
+PRESENTACIONES PRODUCIDAS:
+
+JESÚS:
+https://gamma.app/docs/Del-dato-de-campo-a-la-decision-exploratoria-inteligente-6sbvchha8gwoap1
+
+
+EUGENIA:
+https://gamma.app/docs/El-Mundo-Esta-Semana-3cm3am3iuhqng1a
+
+
+ALVARO:
+https://gamma.app/docs/Gemelos-Digitales-La-Nueva-Frontera-de-la-Industria-Petrolera-tv3g96gdhetc0jl
+
+ADRIANA:
+https://gamma.app/docs/Tendencias-2026-en-Interpretacion-Juridica-gvxbf50oo8acvrv?mode=doc
+
+
+### Ejercicio 2: Creación de Activos Visuales (Claude + Freepik AI)
+
+* **Instrucción a Claude:** *"Actúa como un experto en prompt engineering para imágenes. Crea 3 prompts detallados para generar imágenes sobre [Tu producto o concepto] en Freepik AI. Los prompts deben incluir: sujeto, acción, tipo de iluminación, estilo artístico (fotografía realista/minimalista/corporativo) y relación de aspecto (16:9)."*
+* **Ejecución:** Copia y pega los prompts resultantes en la herramienta Freepik AI.
+
+### Ejercicio 3: Proyecto Integrador Multimedia (Guion → Imagen → Vídeo)
+
+Este es el desafío final: crear un vídeo de 30 segundos.
+
+1. **Guion (Claude):** *"Escribe un guion de 30 segundos para un vídeo promocional de [Tu tema]. Divide el guion en 4 escenas. Para cada escena, escribe una descripción visual detallada (Prompt para Freepik) y el texto que leerá la voz en off."*
+
+2. **Imágenes (Freepik AI):** Genera las 4 imágenes basadas en las descripciones de Claude.
+
+3. **Vídeo (Fliki.ai):**
+* Crea un nuevo proyecto en Fliki.
+* Pega el guion de Claude.
+* Sustituye los recursos de stock automáticos por las imágenes que generaste en el paso anterior para mantener la coherencia visual.
+* Elige una voz de IA y añade música de fondo que encaje con el tono.
+
+---
+
+## Estrategia de Evaluación: "Calidad vs. Automatización"
+
+Como experto, te pido que evalúes el resultado final bajo estos criterios:
+
+* **Consistencia:** ¿Mantienen las imágenes un estilo visual coherente?
+* **Coherencia:** ¿El guion de Claude se alinea perfectamente con el contenido visual generado?
+* **Optimización:** ¿Cuánto tiempo ahorraste en comparación con el método tradicional de diseño?
+
+-------------- Repaso Uno --------------
+Para dominar la **Creación de Contenido Visual** mediante la orquestación de herramientas, debemos entender que la calidad no reside en el azar, sino en la capacidad de transferir una intención clara de un modelo de lenguaje (Claude) a una herramienta de generación (Freepik AI o Gamma.app).
+
+---
+
+### 1. Teoría: El Flujo de Producción "Human-in-the-loop"
+
+El éxito en la creación de contenido multimedia no depende de una sola herramienta, sino de la **cadena de producción** que establecemos.
+
+* **Rol de Claude (Arquitecto):** Claude actúa como el diseñador de la "instrucción técnica" o *prompt*. Su función es traducir conceptos abstractos a especificaciones precisas que las herramientas visuales puedan ejecutar con exactitud.
+
+* **Freepik AI (Diseñador Visual):** Es la herramienta especializada en la generación de imágenes con estilos consistentes. La efectividad aquí depende del "Prompt Engineering Visual", donde se deben detallar aspectos como la iluminación, el ángulo de cámara, el estilo artístico y la paleta de colores.
+
+* **Gamma.app (Storyteller):** Automatiza la arquitectura de presentaciones. Claude es fundamental para proveer el esqueleto narrativo (la estructura de diapositivas) que Gamma luego transformará en una presentación visual.
+
+---
+
+### 2. Práctica: Laboratorio Multimedia
+
+#### Ejercicio 1: De la Idea al Slide con Claude y Gamma.app
+
+1. **Instrucción a Claude:** Debes solicitarle que actúe como un diseñador de presentaciones profesional y proporcione una estructura detallada de 5 diapositivas sobre tu tema. La instrucción debe pedir el título de cada slide, puntos clave (bullets) y el tipo de imagen necesaria para transmitir profesionalismo y modernidad.
+
+
+2. **Gamma.app:** Utiliza la función "Text to Deck" de la herramienta para importar el esquema estructurado que Claude diseñó para ti.
+
+
+
+#### Ejercicio 2: Creación de Activos Visuales (Claude + Freepik AI)
+
+* **Instrucción a Claude:** Pídele que actúe como un experto en *prompt engineering* para imágenes. Solicita la creación de 3 prompts detallados para generar imágenes sobre tu concepto en Freepik AI.
+
+
+* **Requisitos del Prompt:** Debes asegurar que Claude incluya obligatoriamente en sus diseños: sujeto, acción, tipo de iluminación, estilo artístico (fotografía realista, minimalista o corporativo) y la relación de aspecto (16:9).
+
+
+* **Ejecución:** Una vez que Claude genere estos prompts técnicos, cópialos y pégalos directamente en Freepik AI.
+
+---
+
+### 3. Estrategia de Evaluación: "Calidad vs. Automatización"
+
+Como experto, te sugiero evaluar los resultados finales de tus ejercicios considerando los siguientes criterios:
+
+* **Consistencia:** ¿Las imágenes generadas mantienen un estilo visual coherente entre sí?
+
+
+* **Coherencia:** ¿El guion o estructura proporcionada por Claude se alinea perfectamente con el contenido visual resultante?
+
+
+* **Optimización:** ¿Lograste reducir significativamente el tiempo de diseño en comparación con métodos tradicionales?
+
+
+-------------- Repaso 2 --------------
+
+Para dominar la producción multimedia de alto nivel, el enfoque más efectivo es el **flujo de trabajo encadenado**, donde cada IA cumple una función específica dentro de una línea de montaje digital.
+
+---
+
+### 1. Teoría: El Flujo de Producción "Human-in-the-loop"
+
+El secreto de la calidad profesional no es la IA individual, sino la **cadena de producción** que orquestas.
+
+* **Rol de Claude (Arquitecto)**: Claude no genera el vídeo, sino que diseña la arquitectura del contenido (instrucción técnica) que garantiza precisión en los pasos siguientes.
+
+
+* **Freepik AI (Diseñador Visual)**: Especializado en generar activos visuales con estilos consistentes a través del "Prompt Engineering Visual" (ajustando iluminación, ángulo de cámara, estilo artístico y paleta de colores).
+
+
+* **Fliki.ai (Productor)**: Actúa como el ensamblador final que sintetiza voz, música, imágenes y clips de vídeo para crear contenido narrativo cohesionado. Su eficiencia se maximiza cuando recibe un guion estructurado.
+
+---
+
+### 2. Práctica: Laboratorio Multimedia (Proyecto Integrador)
+
+El objetivo es crear un vídeo promocional de 30 segundos siguiendo esta secuencia lógica:
+
+1. **Guion con Claude (Ideación)**:
+* **Instrucción**: *"Escribe un guion de 30 segundos para un vídeo promocional de [Tu tema]. Divide el guion en 4 escenas. Para cada escena, escribe una descripción visual detallada (para ser usada como Prompt en Freepik) y el texto exacto que leerá la voz en off."*
+
+
+
+2. **Imágenes con Freepik AI (Activos Visuales)**:
+* Toma las 4 descripciones visuales generadas por Claude y genéralas en Freepik AI para asegurar que tengan el mismo estilo estético.
+
+
+
+
+3. **Vídeo con Fliki.ai (Montaje Final)**:
+* Crea un nuevo proyecto en Fliki.ai.
+
+
+* Pega el guion estructurado que obtuviste de Claude.
+
+
+* Sustituye los recursos de stock genéricos que Fliki pueda sugerir por las 4 imágenes que creaste específicamente en Freepik AI para garantizar la **coherencia visual**.
+
+
+* Selecciona una voz de IA y una pista de música de fondo que encaje con el tono emocional del mensaje.
+
+
+
+
+
+---
+
+### 3. Estrategia de Evaluación: "Calidad vs. Automatización"
+
+Como experto, debes auditar tu resultado final bajo estos tres pilares críticos:
+
+* **Consistencia**: ¿Mantienen las imágenes un estilo visual coherente entre las 4 escenas?
+
+
+* **Coherencia**: ¿El guion diseñado por Claude se alinea perfectamente con el impacto visual generado?
+
+
+* **Optimización**: ¿Cuánto tiempo de producción ahorraste en comparación con el método tradicional de edición manual?
+
+

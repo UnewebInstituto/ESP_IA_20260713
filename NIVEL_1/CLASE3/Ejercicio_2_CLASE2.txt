@@ -1,0 +1,25 @@
+### Ejemplo de Tareas: Desarrollo de Plataforma Web
+
+---
+
+**Lista de tareas para análisis:**
+
+1. **Tarea:** Refactorización del módulo de autenticación (JWT a OAuth2) | **Prioridad:** Alta | **Tiempo:** 12 horas | **Estado:** Pendiente | **Nota:** Bloqueado por falta de documentación API externa.
+2. **Tarea:** Responder correos de clientes sobre bugs menores | **Prioridad:** Media | **Tiempo:** 4 horas | **Estado:** En proceso | **Nota:** Interrumpe el flujo de desarrollo constantemente.
+3. **Tarea:** Diseño de base de datos para nuevo módulo de reportes | **Prioridad:** Alta | **Tiempo:** 8 horas | **Estado:** Pendiente | **Nota:** Requiere revisión de arquitectura.
+4. **Tarea:** Actualización de dependencias de frontend (npm audit) | **Prioridad:** Baja | **Tiempo:** 3 horas | **Estado:** Pendiente | **Nota:** Tarea repetitiva necesaria para seguridad.
+5. **Tarea:** Documentación técnica de microservicios | **Prioridad:** Media | **Tiempo:** 6 horas | **Estado:** Bloqueado | **Nota:** Nadie tiene tiempo para redactar.
+6. **Tarea:** Soporte técnico de nivel 1 (tickets de usuarios) | **Prioridad:** Alta | **Tiempo:** 10 horas semanales | **Estado:** En proceso | **Nota:** Consume gran parte del tiempo del desarrollador senior.
+
+---
+
+### ¿Cómo proceder?
+
+Una vez que pegues esta lista junto con el prompt de gestión que diseñamos, la IA:
+
+* **Identificará el cuello de botella principal** (por ejemplo, el tiempo perdido en soporte nivel 1 y la falta de documentación).
+* **Propondrá soluciones** como la automatización del soporte o la delegación de tareas de bajo valor.
+
+
+* **Justificará el impacto** de cada decisión en una tabla de resultados.
+
