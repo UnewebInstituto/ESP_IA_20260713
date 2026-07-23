@@ -1,0 +1,47 @@
+### 1. Teoría: El Marco Legal y los Derechos de Autor en la Era de la IA
+
+La intersección entre la propiedad intelectual y la inteligencia artificial está regida por dos ejes fundamentales: la procedencia de los datos de entrenamiento y la condición jurídica de los resultados generados.
+
+* **El Principio de No Protectibilidad del Output:** Los contenidos generados de forma totalmente automatizada por una IA (sin una intervención humana creativa y sustancial) **no poseen derechos de autor** y entran directamente en el dominio público. Para reclamar derechos sobre una obra asistida por IA, el creador debe demostrar un aporte original en la selección, edición o dirección artística.
+* **El Impacto del EU AI Act y la Transparencia:** Las normativas europeas imponen obligaciones estrictas a los proveedores de modelos de propósito general y a las empresas que despliegan contenido comercial:
+* **Derechos de "Opt-Out":** Los creadores pueden reservar sus derechos mediante marcas legibles por máquina para impedir que sus obras sean utilizadas en el entrenamiento de modelos (Text and Data Mining).
+* **Obligaciones de Etiquetado (Artículo 50):** Es un requisito legal obligatorio etiquetar y usar marcas de agua persistentes en contenidos generados por IA (imágenes, vídeos tipo *deepfakes* o textos de interés público) para garantizar la transparencia ante el consumidor.
+
+
+
+---
+
+### 2. Práctica: Auditoría de Contenido y Uso Comercial Seguro
+
+Para mitigar riesgos legales al utilizar herramientas de IA en tus proyectos comerciales o educativos, debes implementar una estrategia de control en dos fases:
+
+#### Ejercicio Práctico: Protocolo de Verificación Comercial
+
+1. **Auditoría de Insumos (Inputs):**
+* Asegúrate de que las herramientas que utilizas (como Freepik AI o generadores de texto) garanticen indemnidad o licencias comerciales sobre los modelos entrenados.
+* Evita el uso de datos protegidos o marcas registradas en los *prompts* que puedan replicar propiedad intelectual ajena de forma directa.
+
+
+2. **Validación del Grado de Intervención Humana (El Factor de Autoría):**
+* Documenta el proceso creativo: guarda borradores, prompts iterativos, historial de versiones y capas de edición manual.
+* Modifica sustancialmente los resultados de la IA (por ejemplo, integrando diseño propio, código manual o dirección de arte específica) para cumplir con el umbral de originalidad exigido por las oficinas de propiedad intelectual.
+
+
+3. **Implementación de Transparencia Técnica:**
+* Configura sistemas de marcado invisible o *watermarking* en tus piezas visuales y de vídeo para cumplir de forma preventiva con las normativas internacionales de etiquetado.
+
+
+
+---
+
+### 3. Estrategia de Evaluación: "Mitigación de Riesgos Legales"
+
+Evalúa tus flujos de trabajo comerciales bajo los siguientes criterios de cumplimiento:
+
+* **Originalidad Comprobable:** ¿Existe evidencia del rastro humano (decisiones creativas, edición, estructura propia) en el producto final para justificar su protección o uso seguro?
+* **Trazabilidad de Datos:** ¿Los activos generados (imágenes, vídeos, textos) provienen de plataformas con licencias claras que respetan las directrices de *opt-out* de los creadores originales?
+* **Cumplimiento de Transparencia:** ¿Se han incorporado las etiquetas o marcas de agua técnicas requeridas por la ley para identificar contenido sintético frente al usuario final?
+
+[Guía sobre el impacto normativo de la IA y el etiquetado obligatorio](https://www.youtube.com/watch?v=DaTDwpMKjNU)
+
+Este vídeo explica los detalles prácticos sobre las obligaciones legales de transparencia y el etiquetado obligatorio de contenidos generados por IA.
